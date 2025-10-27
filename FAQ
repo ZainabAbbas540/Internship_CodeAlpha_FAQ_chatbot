@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are your shipping options?",
+        "answer": "We offer standard (3-5 business days), expedited (2 business days), and next-day shipping. More info at https://example.com/shipping"
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "Once your order ships, you will receive an email with a tracking number. You can track it on the carrier's website."
+    },
+    {
+        "question": "What is your return policy?",
+        "answer": "We accept returns on unused items within 30 days of purchase for a full refund. Please visit our returns page at https://example.com/returns to start the process."
+    },
+    {
+        "question": "How do I contact customer support?",
+        "answer": "You can email us at support@example.com or call 1-800-123-4567 during business hours."
+    },
+    {
+        "question": "Do you offer discounts?",
+        "answer": "Yes! New customers can use the code NEW15 at checkout for 15% off their first order."
+    }
+]
