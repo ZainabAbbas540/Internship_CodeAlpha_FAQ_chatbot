@@ -1,0 +1,19 @@
+{"timestamp": "2025-10-26T23:00:50.967511", "question": "Can I cancel my order?", "feedback": "positive"}
+{"timestamp": "2025-10-26T23:00:51.766544", "question": "Can I cancel my order?", "feedback": "positive"}
+{"timestamp": "2025-10-26T23:00:53.257294", "question": "Can I cancel my order?", "feedback": "negative"}
+{"timestamp": "2025-10-26T23:00:54.016387", "question": "Can I cancel my order?", "feedback": "negative"}
+{"timestamp": "2025-10-26T23:07:05.673499", "question": "My order arrived damaged, what should I do?", "feedback": "positive"}
+{"timestamp": "2025-10-26T23:07:07.001412", "question": "My order arrived damaged, what should I do?", "feedback": "negative"}
+{"timestamp": "2025-10-26T23:07:07.823983", "question": "My order arrived damaged, what should I do?", "feedback": "negative"}
+{"timestamp": "2025-10-26T23:07:08.038561", "question": "My order arrived damaged, what should I do?", "feedback": "negative"}
+{"timestamp": "2025-10-26T23:07:08.234158", "question": "My order arrived damaged, what should I do?", "feedback": "negative"}
+{"timestamp": "2025-10-26T23:07:08.397351", "question": "My order arrived damaged, what should I do?", "feedback": "negative"}
+{"timestamp": "2025-10-26T23:07:08.559942", "question": "My order arrived damaged, what should I do?", "feedback": "negative"}
+{"timestamp": "2025-10-26T23:53:41.296242", "question": "my name is ali", "feedback": "positive"}
+{"timestamp": "2025-10-26T23:53:43.849722", "question": "my name is ali", "feedback": "negative"}
+{"timestamp": "2025-10-26T23:56:27.385471", "question": "hi", "feedback": "positive"}
+{"timestamp": "2025-10-26T23:58:56.382887", "question": "Can I cancel my order?", "feedback": "positive"}
+{"timestamp": "2025-10-26T23:59:03.619522", "question": "bye", "feedback": "negative"}
+{"timestamp": "2025-10-27T00:05:15.049166", "question": "hi", "feedback": "negative"}
+{"timestamp": "2025-10-27T00:05:40.227773", "question": "hi", "feedback": "positive"}
+{"timestamp": "2025-10-27T00:18:44.949174", "question": "jio\\", "feedback": "negative"}
