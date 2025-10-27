@@ -1,4 +1,4 @@
-# Final Enhanced Chatbot with Modern UI and Robust Fallback (Final Responsive Version)
+
 
 import tkinter as tk
 from tkinter import Menu, messagebox
@@ -14,7 +14,7 @@ import json
 import threading
 from textwrap import wrap
 
-# --- Pre-computation: Check for required libraries ---
+
 try:
     from PIL import Image, ImageTk
     PILLOW_INSTALLED = True
@@ -106,13 +106,13 @@ class ChatApplication(tk.Tk):
         self.FONT_SMALL = ("Segoe UI", 8)
         self.typing_indicator = None
 
-        # --- FIX: List to track all message labels for responsive resizing ---
+        # --- List to track all message labels for responsive resizing ---
         self.message_labels = []
 
         self._setup_ui()
 
     def _setup_ui(self):
-        """Constructs the main UI elements of the application."""
+        """ the main UI elements of the application."""
         # --- Header ---
         header_frame = tk.Frame(self, bg=self.HEADER_COLOR, height=60)
         header_frame.pack(fill=tk.X, side=tk.TOP)
@@ -139,7 +139,7 @@ class ChatApplication(tk.Tk):
         self.scrollbar.pack(side="right", fill="y")
         self.canvas.pack(side="left", fill="both", expand=True)
 
-        # --- FIX: Bind the resize event of the canvas to a handler function ---
+        # --- Bind the resize event of the canvas to a handler function ---
         self.canvas.bind('<Configure>', self._on_resize)
 
         # --- Message Input Footer ---
@@ -296,7 +296,7 @@ class ChatApplication(tk.Tk):
             for widget in self.scrollable_frame.winfo_children():
                 widget.destroy()
             
-            # --- FIX: Clear the tracked labels list ---
+            # ---  Clear the tracked labels list ---
             self.message_labels.clear()
 
             self.after(100, lambda: self._add_message_to_gui("Bot", "Chat cleared! How can I help you now?"))
